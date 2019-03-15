@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c572028f-9682-4123-b98e-ee4c718dc88c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/51.正则匹配日期.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/52.列表排序不用sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/53.写一个单例模式.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/54.保留两位小数.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/55.求三个方法的打印结果.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/57.分别从前端、后端、数据库阐述web项目的性能优化.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/58.使用pop和del删除字典中的“name”字段.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/59.列出常见的mysql数据库引擎.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/60.计算代码运行结果.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/61.简述同源策略.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/62.简述cookie和session的区别.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/63.简述多线程、多进程.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/64.简述any(0和all()方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/65.异常类型.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/66.python中copy和deepcopy区别.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/67.列出集中魔法方便并简要介绍用途.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/68.路径接命令输出什么数据.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/69.将列表推导式改为生成器.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/70.去除字符串结尾的空格.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/71.举例sort和sorted对列表的排序.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/72.对列表使用lambda从小到大排序.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/73.使用lambda函数排序，正数从小到大，复数从大到小.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,13 +28,16 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/github_python_interview_question$4_.coverage" NAME="4.字典如何删除键和合并两个字典 Coverage Results" MODIFIED="1552463869859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$27_filtera__1_2_3_4_5_6_7_8_9_10_.coverage" NAME="27.filter方法求出列表所有奇数并构造新列表，a=[1,2,3,4,5,6,7,8,9,10] Coverage Results" MODIFIED="1552478303001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_python_interview_question$71_sortsorted.coverage" NAME="71.举例sort和sorted对列表的排序 Coverage Results" MODIFIED="1552642942191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$2_.coverage" NAME="2.如何在一个函数内部修改全局变量 Coverage Results" MODIFIED="1552463096535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_python_interview_question$72_lambda.coverage" NAME="72.对列表使用lambda从小到大排序 Coverage Results" MODIFIED="1552644011718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$33_logdatetime.coverage" NAME="33.log日志中，用datetime模块打印当前的时间戳 Coverage Results" MODIFIED="1552479295805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$28_a__1_2_3_4_5_6_7_8_9_10_.coverage" NAME="28.列表推导式求列表所有奇数并构造新列表，a=[1,2,3,4,5,6,7,8,9,10] Coverage Results" MODIFIED="1552478460754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$46_bytes.coverage" NAME="46.编码成bytes类型 Coverage Results" MODIFIED="1552547570860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$Unittests_in_5_pyhtonGIL_py.coverage" NAME="Unittests in 5.谈下pyhton的GIL.py Coverage Results" MODIFIED="1552463915776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$58_popdelname.coverage" NAME="58.使用pop和del删除字典中的“name”字段 Coverage Results" MODIFIED="1552556622022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$1_1100.coverage" NAME="1.一行代码实现1到100的和 Coverage Results" MODIFIED="1552463027918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_python_interview_question$69_.coverage" NAME="69.将列表推导式改为生成器 Coverage Results" MODIFIED="1552642260192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$37_.coverage" NAME="37.正则匹配中两种匹配的区别 Coverage Results" MODIFIED="1552480049188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$41_try_except_else_finally.coverage" NAME="41.举例说明异常模块中try,except,else,finally的相关意义 Coverage Results" MODIFIED="1552542363537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$54_.coverage" NAME="54.保留两位小数 Coverage Results" MODIFIED="1552555087520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -42,14 +51,18 @@
     <SUITE FILE_PATH="coverage/github_python_interview_question$24_.coverage" NAME="24.字典根据键从小到大排序 Coverage Results" MODIFIED="1552470920679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$25_collectionsCounter.coverage" NAME="25.利用collections库的Counter方法统计字符串每个单词出现的次数 Coverage Results" MODIFIED="1552471132862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$23_lambda.coverage" NAME="23.用lambda函数实现两个数相乘 Coverage Results" MODIFIED="1552470534302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_python_interview_question$70_.coverage" NAME="70.去除字符串结尾的空格 Coverage Results" MODIFIED="1552642477546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$44_re_sub98100.coverage" NAME="44.用re.sub，将98替换为100 Coverage Results" MODIFIED="1552547348162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_python_interview_question$73_lambda.coverage" NAME="73.使用lambda函数排序，正数从小到大，复数从大到小 Coverage Results" MODIFIED="1552649168336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$51_.coverage" NAME="51.正则匹配日期 Coverage Results" MODIFIED="1552553601678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$47_.coverage" NAME="47.列表相加的结果 Coverage Results" MODIFIED="1552547669067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$42_python.coverage" NAME="42.python中交换两个数值 Coverage Results" MODIFIED="1552543915878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$39___1_2___3_4___5_6___1_2_3_4_5_6_.coverage" NAME="39.[[1,2],[3,4],[5,6]]一行代码展开该列表，得出[1,2,3,4,5,6] Coverage Results" MODIFIED="1552541742268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$53_.coverage" NAME="53.写一个单例模式 Coverage Results" MODIFIED="1552554841046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_python_interview_question$66_pythoncopydeepcopy.coverage" NAME="66.python中copy和deepcopy区别 Coverage Results" MODIFIED="1552641356897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$26_.coverage" NAME="26.字符串每个单词中间是空格，用正则过滤掉英文和数字 Coverage Results" MODIFIED="1552477860367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$55_.coverage" NAME="55.求三个方法的打印结果 Coverage Results" MODIFIED="1552555373981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_python_interview_question$60_.coverage" NAME="60.计算代码运行结果 Coverage Results" MODIFIED="1552570107984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$30_abc.coverage" NAME="30.abc分别是什么类型的数据 Coverage Results" MODIFIED="1552478733428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$43_zip__.coverage" NAME="43.举例说明zip()函数用法 Coverage Results" MODIFIED="1552547074259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/github_python_interview_question$52_sort.coverage" NAME="52.列表排序不用sort Coverage Results" MODIFIED="1552553953955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -61,7 +74,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="73.使用lambda函数排序，正数从小到大，复数从大到小.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/73.使用lambda函数排序，正数从小到大，复数从大到小.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="72.对列表使用lambda从小到大排序.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/72.对列表使用lambda从小到大排序.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,27 +107,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10.pyhton內建数据类型有哪些.py" />
-        <option value="$PROJECT_DIR$/11.简述面向对象中__new__和__init__区别.py" />
-        <option value="$PROJECT_DIR$/12.简述with方法打开处理文件帮我们做了什么.py" />
-        <option value="$PROJECT_DIR$/13.列表[1,2,3,4,5]，请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py" />
-        <option value="$PROJECT_DIR$/14.pyhton中生成随机整数、随机小数、0-1之间小数的方法.py" />
-        <option value="$PROJECT_DIR$/15.避免转义给字符串加那个字母表示原始字符串.py" />
-        <option value="$PROJECT_DIR$/16.正则匹配出类名不确定的标签中的汉字.py" />
-        <option value="$PROJECT_DIR$/17.pyhton中断言方法举例.py" />
-        <option value="$PROJECT_DIR$/18.数据表student有id,name,score,city字段，其中name中的名字可重复，需要消除重复行，请写出sql语句.py" />
-        <option value="$PROJECT_DIR$/19.十个Linux常用命令.py" />
-        <option value="$PROJECT_DIR$/20.python2和python3区别，列举5个.py" />
-        <option value="$PROJECT_DIR$/21.列出python中可变数据类型和不可变数据类型，并简述原理.py" />
-        <option value="$PROJECT_DIR$/22.字符串去重并从小到大排序输出.py" />
-        <option value="$PROJECT_DIR$/23.用lambda函数实现两个数相乘.py" />
-        <option value="$PROJECT_DIR$/24.字典根据键从小到大排序.py" />
-        <option value="$PROJECT_DIR$/25.利用collections库的Counter方法统计字符串每个单词出现的次数.py" />
         <option value="$PROJECT_DIR$/26.字符串每个单词中间是空格，用正则过滤掉英文和数字.py" />
         <option value="$PROJECT_DIR$/27.filter方法求出列表所有奇数并构造新列表，a=[1,2,3,4,5,6,7,8,9,10].py" />
         <option value="$PROJECT_DIR$/28.列表推导式求列表所有奇数并构造新列表，a=[1,2,3,4,5,6,7,8,9,10].ipynb" />
@@ -129,6 +151,22 @@
         <option value="$PROJECT_DIR$/57.分别从前端、后端、数据库阐述web项目的性能优化.py" />
         <option value="$PROJECT_DIR$/58.使用pop和del删除字典中的“name”字段.py" />
         <option value="$PROJECT_DIR$/59.列出常见的mysql数据库引擎.py" />
+        <option value="$PROJECT_DIR$/60.计算代码运行结果.py" />
+        <option value="$PROJECT_DIR$/61.简述同源策略.py" />
+        <option value="$PROJECT_DIR$/62.简述cookie和session的区别.py" />
+        <option value="$PROJECT_DIR$/63.简述多线程、多进程.py" />
+        <option value="$PROJECT_DIR$/64.简述any(0和all()方法.py" />
+        <option value="$PROJECT_DIR$/65.异常类型.py" />
+        <option value="$PROJECT_DIR$/66.python中copy和deepcopy区别.py" />
+        <option value="$PROJECT_DIR$/67.列出集中魔法方便并简要介绍用途.py" />
+        <option value="$PROJECT_DIR$/68.路径接命令输出什么数据.py" />
+        <option value="$PROJECT_DIR$/69.将列表推导式改为生成器.py" />
+        <option value="$PROJECT_DIR$/70.去除字符串结尾的空格.py" />
+        <option value="$PROJECT_DIR$/举例sort和sorted对列表的排序.py" />
+        <option value="$PROJECT_DIR$/71.举例sort和sorted对列表的排序.py" />
+        <option value="$PROJECT_DIR$/72.对列表使用lambda从小到大排序.py" />
+        <option value="$PROJECT_DIR$/73.使用lambda函数排序，整数从小到大，复数从大到小.py" />
+        <option value="$PROJECT_DIR$/73.使用lambda函数排序，正数从小到大，复数从大到小.py" />
       </list>
     </option>
   </component>
@@ -139,8 +177,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="380" />
-    <option name="y" value="320" />
+    <option name="x" value="587" />
+    <option name="y" value="196" />
     <option name="width" value="1295" />
     <option name="height" value="827" />
   </component>
@@ -162,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,6 +215,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,8 +235,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.58.使用pop和del删除字典中的“name”字段">
-    <configuration default="false" name="52.列表排序不用sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.73.使用lambda函数排序，正数从小到大，复数从大到小">
+    <configuration default="false" name="69.将列表推导式改为生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -211,13 +249,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="github_python_interview_question" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/52.列表排序不用sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/69.将列表推导式改为生成器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="53.写一个单例模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="70.去除字符串结尾的空格" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -230,13 +268,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="github_python_interview_question" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/53.写一个单例模式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/70.去除字符串结尾的空格.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="54.保留两位小数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="71.举例sort和sorted对列表的排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -249,13 +287,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="github_python_interview_question" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/54.保留两位小数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/71.举例sort和sorted对列表的排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="55.求三个方法的打印结果" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="72.对列表使用lambda从小到大排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -268,13 +306,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="github_python_interview_question" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55.求三个方法的打印结果.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/72.对列表使用lambda从小到大排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="58.使用pop和del删除字典中的“name”字段" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="73.使用lambda函数排序，正数从小到大，复数从大到小" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -287,7 +325,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="github_python_interview_question" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/58.使用pop和del删除字典中的“name”字段.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/73.使用lambda函数排序，正数从小到大，复数从大到小.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -442,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.52.列表排序不用sort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.53.写一个单例模式" />
-      <item index="2" class="java.lang.String" itemvalue="Python.54.保留两位小数" />
-      <item index="3" class="java.lang.String" itemvalue="Python.55.求三个方法的打印结果" />
-      <item index="4" class="java.lang.String" itemvalue="Python.58.使用pop和del删除字典中的“name”字段" />
+      <item index="0" class="java.lang.String" itemvalue="Python.69.将列表推导式改为生成器" />
+      <item index="1" class="java.lang.String" itemvalue="Python.70.去除字符串结尾的空格" />
+      <item index="2" class="java.lang.String" itemvalue="Python.71.举例sort和sorted对列表的排序" />
+      <item index="3" class="java.lang.String" itemvalue="Python.72.对列表使用lambda从小到大排序" />
+      <item index="4" class="java.lang.String" itemvalue="Python.73.使用lambda函数排序，正数从小到大，复数从大到小" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.58.使用pop和del删除字典中的“name”字段" />
-        <item index="1" class="java.lang.String" itemvalue="Python.55.求三个方法的打印结果" />
-        <item index="2" class="java.lang.String" itemvalue="Python.54.保留两位小数" />
-        <item index="3" class="java.lang.String" itemvalue="Python.53.写一个单例模式" />
-        <item index="4" class="java.lang.String" itemvalue="Python.52.列表排序不用sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.73.使用lambda函数排序，正数从小到大，复数从大到小" />
+        <item index="1" class="java.lang.String" itemvalue="Python.72.对列表使用lambda从小到大排序" />
+        <item index="2" class="java.lang.String" itemvalue="Python.71.举例sort和sorted对列表的排序" />
+        <item index="3" class="java.lang.String" itemvalue="Python.70.去除字符串结尾的空格" />
+        <item index="4" class="java.lang.String" itemvalue="Python.69.将列表推导式改为生成器" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552557243753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="404">
+      <created>1552557312340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552557312340</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -502,15 +547,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="380" y="320" width="1295" height="827" extended-state="0" />
+    <frame x="587" y="196" width="1295" height="827" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25506073" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2672065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32611832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32611832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -533,125 +578,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First submission" />
-    <option name="LAST_COMMIT_MESSAGE" value="First submission" />
+    <MESSAGE value="404" />
+    <option name="LAST_COMMIT_MESSAGE" value="404" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11.简述面向对象中__new__和__init__区别.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.简述with方法打开处理文件帮我们做了什么.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13.列表[1,2,3,4,5]，请使用map()函数输出[1,4,9,16,25]，并使用列表推导式提取出大于10的数，最终输出[16,25].py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14.pyhton中生成随机整数、随机小数、0-1之间小数的方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15.避免转义给字符串加那个字母表示原始字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16.正则匹配出类名不确定的标签中的汉字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17.pyhton中断言方法举例.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18.数据表student有id,name,score,city字段，其中name中的名字可重复，需要消除重复行，请写出sql语句.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19.十个Linux常用命令.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20.python2和python3区别，列举5个.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21.列出python中可变数据类型和不可变数据类型，并简述原理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/864598131/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="3653" column="8" lean-forward="false" selection-start-line="3653" selection-start-column="8" selection-end-line="3653" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22.字符串去重并从小到大排序输出.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/23.用lambda函数实现两个数相乘.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24.字典根据键从小到大排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25.利用collections库的Counter方法统计字符串每个单词出现的次数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/26.字符串每个单词中间是空格，用正则过滤掉英文和数字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -832,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,7 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="28" column="15" lean-forward="false" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -880,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,7 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,6 +822,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/60.计算代码运行结果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/61.简述同源策略.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/62.简述cookie和session的区别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/63.简述多线程、多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/64.简述any(0和all()方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/65.异常类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66.python中copy和deepcopy区别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/67.列出集中魔法方便并简要介绍用途.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/68.路径接命令输出什么数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/69.将列表推导式改为生成器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/70.去除字符串结尾的空格.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/71.举例sort和sorted对列表的排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/72.对列表使用lambda从小到大排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/864598131/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/73.使用lambda函数排序，正数从小到大，复数从大到小.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
